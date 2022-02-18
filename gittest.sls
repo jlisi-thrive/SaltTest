@@ -1,3 +1,3 @@
 cheese:
   grains.present:
-    - value: edam
+    - value: edams
